@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pillow
+scikit-image
+scikit-learn
+lightgbm
+joblib
+tqdm
+PyWavelets
+streamlit
