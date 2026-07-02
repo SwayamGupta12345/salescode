@@ -1,6 +1,3 @@
-
-
-from features import load_image, extract_features
 from sklearn.exceptions import InconsistentVersionWarning
 import warnings
 import joblib
